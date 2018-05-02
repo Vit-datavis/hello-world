@@ -1,2 +1,2 @@
 # hello-world
-Getting to understand GitHub features.
+I am graphic designer based in London specialised in data visualisation.
